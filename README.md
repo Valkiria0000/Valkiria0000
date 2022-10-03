@@ -1,4 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center" style="color: aqua;"> ** Hi, I'm Irina  **</h1>
+
 - 👀 I’m interested in frontend developer
 - 🌱 I’m currently learning html5, css3, javacsript, webpack, git, react
 - 💞️ I’m looking to collaborate
