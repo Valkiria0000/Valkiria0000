@@ -1,7 +1,7 @@
 <h1 align="center" style="color: aqua;"> ** Hi, I'm Irina  **</h1>
 - 👀 I’m interested in frontend developer
 - 🌱 I’m currently learning html5, css3, javacsript, webpack, git, react
-- 💞️ I’m looking to collaborate on Skillfactory
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me valkiria0000@bk.ru
 
 <!---
