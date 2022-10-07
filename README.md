@@ -4,20 +4,20 @@
 
 <br>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="VK Badge"/>
+  <a href="https://m.vk.com/id178934299">
+    <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="VK Badge" target="_blank"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" title="временно не работает" target="_blank"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" title="временно не работает" target="_blank"/>
   </a> <br>
-    <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/-Instagram-red?color=DD2A7B&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+    <a href="#">
+    <img src="https://img.shields.io/badge/-Instagram-red?color=DD2A7B&logo=instagram&logoColor=white" alt="Instagram Badge" target="_blank" title="временно не работает"/>
   </a>
-    <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=black" alt="Twitter Badge"/>
+    <a href="https://telegram.im/@IIgnatenko00" target="_blank">
+    <img src="https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
 
 </div><hr>
