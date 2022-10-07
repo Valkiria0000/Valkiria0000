@@ -58,6 +58,11 @@
  <img src="https://github.com/devicons/devicon/blob/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="webpack" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Valkiria0000&theme=horizon&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!---
 Valkiria0000/Valkiria0000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
